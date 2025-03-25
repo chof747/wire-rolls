@@ -1,5 +1,9 @@
 # Wire Spool Holder
 
+## Purpose and Usage
+
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 This model is a parametrized design for a spool for smaller wires or alike which prints in two identical halfes which can be press-fitted together.
 
 The attached FreeCad file is provided with a few parameters that can help to tweak the design to your needs:
@@ -20,3 +24,9 @@ Spool in halfes
 
 ![Spool assembled and loaded](resources/wire-roll-loaded.jpg)
 Spool assembled and loaded
+
+
+## License
+
+This project is licensed under the Creative Commons Attribution 4.0 International License.  
+See the [LICENSE](./LICENSE) file for details.
